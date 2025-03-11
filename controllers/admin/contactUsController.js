@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const ContactUs = require("../../models/ContactUs");
+const ContactUs = require("../../models/Contactus");
 
 const mailer = require("../../mailer/index");
 

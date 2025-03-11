@@ -5,7 +5,7 @@ const Blog = require("../../models/Blog");
 const Team = require("../../models/Team");
 const Testimonial = require("../../models/Testimonial");
 const Newsletter = require("../../models/Newsletter");
-const ContactUs = require("../../models/ContactUs");
+const ContactUs = require("../../models/Contactus");
 
 const mailer = require("../../mailer/index");
 
